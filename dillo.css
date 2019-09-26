@@ -1,0 +1,24 @@
+table {
+	font-family: bebas-neue;
+	background-size: cover; 
+}
+body{
+	background-color: #00181b;
+}
+h1{
+	font-style: bold;
+	font-family: bebas-neue;
+	color: white;
+	font-size: 35pt;
+}
+.form{
+	background-color: grey;
+	width: 500px;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+.tombol{
+	border-color: white;
+	font-size: 15pt ;
+	padding: 10px 20px;
+}
